@@ -1,0 +1,6 @@
+astronomer
+databricks
+boto3==1.40.65
+requests
+awscli==1.42.65
+dotenv
